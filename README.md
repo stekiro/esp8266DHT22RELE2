@@ -1,2 +1,3 @@
 # esp8266DHT22RELE2
 Imposta soglie per temperatura e umidità da pagina web
+Questo codice permette di gestire e visualizzare lo stato di due relè tramite l'impostazione di valori di temperatura e umidità settabili su un web server integrato raggiungibile in locale tramite browser....
